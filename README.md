@@ -71,3 +71,12 @@ For troubleshooting Docker containers the commands are:
 * docker logs *container_name*
 * docker inspect *container_name*
 * To get a terminal docker exec -it _container_name_ sh
+
+## GenAI usage
+GenAI usage was mostly done to search for code smells, security errors, creation of tests, setup of scripts for testing and docker and searching for information about special usage of libraries a lá StackOverflow. The agent used was OpenAI Codex.
+
+## References
+- [Microservices.io](https://microservices.io/)
+- [NestJS documentation](https://docs.nestjs.com/)
+- [NATS documentation](https://docs.nats.io/)
+- [nestjs-microservices-example repo](https://github.com/Denrox/nestjs-microservices-example)
